@@ -56,7 +56,7 @@ Haunted-House-ThreeJs/
 
 ```bash
 git clone https://github.com/aakanshakansal/Haunted-House.git
-cd Haunted-House-ThreeJs
+cd Haunted-House
 ```
 
 ### 📥 Install Dependencies
