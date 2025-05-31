@@ -1,58 +1,101 @@
+---
 
-# 👻 Haunted House Three.Js
+# 👻 Haunted House Three.js
 
-The project involves building a haunted house scene using Three.js primitives as geometries and textures. The aim is to create a spooky and unsettling atmosphere for the viewer by using a combination of different Three.js primitives and textures to construct various elements of the haunted house. The project requires a good understanding of Three.js and the ability to work with textures and geometries to create a realistic and immersive environment.
+A **spooky 3D haunted house scene** built using **Three.js**, with custom textures and geometry to create an immersive horror experience. This project combines creativity and technical skill to simulate an unsettling, eerie environment — perfect for showcasing your WebGL and Three.js skills.
 
-❗️❗️❗️Please note that this project is a work in progress, and some features may not be fully functional or available at this time.
-## 👀 Sneak Peak
+> ⚠️ **Work in Progress:** Some features are still under development and may not be fully functional.
 
+---
 
+## 👀 Sneak Peek
 
-## Run Project Locally
+> *(Insert GIF or screenshot of the haunted house scene here)*
 
-Clone the project
+---
 
+## 🧱 Features
 
+* 🏚️ Custom haunted house structure built with **Three.js primitives**
+* 🖼️ Realistic textures for bricks, doors, grass, and more
+* 🌫️ Spooky atmosphere with ambient lighting
+* 🎃 Expandable project — easily add ghosts, fog, animation, and more!
 
-Go to the project directory
+---
 
-```bash
-  cd Haunted-House-ThreeJs
+## 📂 Folder Structure
+
+```
+Haunted-House-ThreeJs/
+├── dist/                    # Production build output
+├── node_modules/           # Installed dependencies
+├── src/
+│   ├── index.html          # Entry HTML file
+│   ├── script.js           # Main Three.js scene logic
+│   └── style.css           # Styles for the canvas and scene
+├── static/
+│   └── textures/           # All textures used in the project
+│       ├── bricks/
+│       ├── door/
+│       └── grass/
+├── .gitignore              # Git ignored files
+├── package.json            # Project metadata and scripts
+├── package-lock.json       # Dependency lock file
+├── vite.config.js          # Vite build configuration
+└── readme.md               # Project documentation
 ```
 
-Install the packages
+---
+
+## 🛠️ Built With
+
+* [Three.js](https://threejs.org/) – JavaScript 3D library
+* [Vite](https://vitejs.dev/) – Fast build tool and development server
+* Custom textures for bricks, door, and grass
+
+---
+
+## 🏃 Run Project Locally
+
+### 📦 Clone the Repository
 
 ```bash
-  npm install
+git clone https://github.com/your-username/Haunted-House-ThreeJs.git
+cd Haunted-House-ThreeJs
 ```
 
-Start the server
+### 📥 Install Dependencies
 
 ```bash
-  npm run dev
+npm install
 ```
 
+### ▶️ Start Development Server
+
+```bash
+npm run dev
+```
+
+Visit `http://localhost:5173` in your browser.
+
+---
 
 
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/45ac7c7b-614a-4ea7-965a-8b3678d1e0c0)
 
 
+---
 
+## 🙌 Special Thanks
 
+* 💯 [Three.js Journey](https://threejs-journey.com/) — *An amazing course by Bruno Simon*
 
-## 🛠️ Possible because 
-
- - [ThreeJs Journey](https://threejs-journey.com/) Beautiful Course by - Bruno Simon 💯
-
-
+---
 
 ## 🚀 About Me
-I'm an Aspiring full stack developer...
-Love to create, design and build cool projects 😎 and have passion for creating innovative solutions to complex problems using cutting-edge technologies. I have a strong understanding of both front-end and back-end development, and constantly seeking to improve my skills in these areas.
 
+I'm an **aspiring full-stack developer** passionate about building interactive and immersive web experiences. I love working with 3D, creative coding, and designing solutions using modern tech stacks. Always curious, always learning 😎
 
-## Feedback
+---
 
-If you have any feedback, please reach out to me at aakanshakansal56@gmail.com
-
-
-## Author
