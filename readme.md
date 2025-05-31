@@ -8,11 +8,6 @@ A **spooky 3D haunted house scene** built using **Three.js**, with custom textur
 
 ---
 
-## 👀 Sneak Peek
-
-> *(Insert GIF or screenshot of the haunted house scene here)*
-
----
 
 ## 🧱 Features
 
