@@ -55,7 +55,7 @@ Haunted-House-ThreeJs/
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Haunted-House-ThreeJs.git
+git clone https://github.com/aakanshakansal/Haunted-House.git
 cd Haunted-House-ThreeJs
 ```
 
